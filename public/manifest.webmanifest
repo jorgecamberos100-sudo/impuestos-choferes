@@ -1,0 +1,11 @@
+{
+  "name": "MiVolante",
+  "short_name": "MiVolante",
+  "description": "Calculadora educativa de ISR e IVA para choferes de aplicaciones en México.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0C",
+  "theme_color": "#0A0A0C",
+  "lang": "es-MX",
+  "dir": "ltr"
+}
